@@ -1,4 +1,4 @@
-### Click on the below link:
+### Click on the below link to see my site:
 [joe019.github.io](https://joe019.github.io/)
 
 ### Reference:
