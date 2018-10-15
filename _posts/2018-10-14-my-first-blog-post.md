@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My First Blog Post"
+title: "Bekal Fort"
 date: 2018-10-14
 ---
 
