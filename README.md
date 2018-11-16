@@ -5,3 +5,5 @@
 [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)
 
 [GitHub Pages](https://pages.github.com/)
+
+[Publish Your Project Documentation with GitHub Pages](https://blog.github.com/2016-08-22-publish-your-project-documentation-with-github-pages/)
