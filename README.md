@@ -3,3 +3,5 @@
 
 ### Reference:
 [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)
+
+[GitHub Pages](https://pages.github.com/)
