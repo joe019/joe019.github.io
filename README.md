@@ -7,3 +7,7 @@
 [GitHub Pages](https://pages.github.com/)
 
 [Publish Your Project Documentation with GitHub Pages](https://blog.github.com/2016-08-22-publish-your-project-documentation-with-github-pages/)
+
+[Markdown Cheatsheet 1](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+[Markdown Cheatsheet 2](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
