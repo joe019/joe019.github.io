@@ -4,12 +4,14 @@ title: "Favourite movies"
 date: 2019-04-09
 ---
 
-* Andhadhun
 * 3 Idiots
+* Andhadhun
+* Ayalum Njanum Thammil
 * Kaakha Kaakha
 * Kireedam
 * Memento
 * Mouna Ragam
+* Mumbai Police
 * Neelakasham Pachakadal Chuvanna Bhoomi
 * Nightcrawler
 * Sairat
