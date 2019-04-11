@@ -11,8 +11,10 @@ date: 2019-04-09
 * Aruvi
 * Ayalum Njanum Thammil
 * Bajrangi Bhaijaan
+* Guru (Malayalam)
 * Hindi Medium
 * Kaakha Kaakha
+* Kaalapani
 * Kireedam
 * Kumbasaram
 * Maheshinte Prathikaaram
@@ -22,8 +24,11 @@ date: 2019-04-09
 * Namukku Parkkan Munthirithoppukal
 * Nayakan
 * Neelakasham Pachakadal Chuvanna Bhoomi
+* Newton
 * Nightcrawler
 * October
+* Pariyerum Perumal
+* Pranchiyettan & the Saint
 * Rockstar
 * Sairat
 * Saving Private Ryan
