@@ -10,13 +10,10 @@ date: 2019-04-09
 * Arjun Reddy
 * Aruvi
 * Ayalum Njanum Thammil
-* Bajrangi Bhaijaan
 * Guru (Malayalam)
-* Hindi Medium
 * Kaakha Kaakha
 * Kaalapani
 * Kireedam
-* Kumbasaram
 * Maheshinte Prathikaaram
 * Memento
 * Mouna Ragam
@@ -28,13 +25,11 @@ date: 2019-04-09
 * Nightcrawler
 * October
 * Pariyerum Perumal
-* Pranchiyettan & the Saint
 * Rockstar
 * Sairat
 * Saving Private Ryan
 * The Dark Knight
 * The Departed
-* Theeran Adhigaaram Ondru 
 * The Godfather 
 * The Godfather: Part II
 * The Good, the Bad and the Ugly
@@ -42,11 +37,8 @@ date: 2019-04-09
 * The Prestige
 * The Pursuit of Happyness
 * Thoovanathumbikal
-* Ratsasan 
 * Schindler's List
 * Shutter Island
 * The Shawshank Redemption
 * The Silence of the Lambs
-* Ustad Hotel
-* Vikram Vedha 
 * Visaranai
