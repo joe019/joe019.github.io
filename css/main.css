@@ -42,3 +42,8 @@ ul.posts li {
     list-style: none;
     font-family: monospace;
 }
+
+.post {
+    font-family: cursive;
+    font-size: 18px;
+}
