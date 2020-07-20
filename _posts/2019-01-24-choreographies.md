@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Choreographies"
+title: "Top-List: Choreographies"
 date: 2019-01-24
 ---
 

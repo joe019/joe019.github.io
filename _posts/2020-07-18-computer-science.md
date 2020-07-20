@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Computer Science"
+title: "Top-List: Computer Science Resources"
 date: 2020-07-18
 ---
 
