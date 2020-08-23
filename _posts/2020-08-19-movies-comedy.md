@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Top-List: Light-hearted Movies"
+title: "Top-List: Movies - Comedy"
 date: 2020-08-19
 ---
 
